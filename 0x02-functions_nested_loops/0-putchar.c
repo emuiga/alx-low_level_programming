@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <main.h>
 int main(void)
 {
-	char c[30] = "_putchar";
+	char c[] = "_putchar";
 
-	printf("%s", c);
-	printf("\n");
-	return (0);
+	putchar("%s", c);
+	putchar("\n");
+	return 0;
 }
