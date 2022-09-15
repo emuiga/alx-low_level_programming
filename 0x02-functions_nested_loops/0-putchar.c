@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <main.h>
 /**
  * main - check code
  *
- * return 0 if successful
+ * return: 0 if successful
  */
 int main(void)
 {
@@ -16,5 +15,5 @@ int main(void)
 	putchar('a');
 	putchar('r');
 	putchar('\n');
-	return 0;
+	return (0);
 }
