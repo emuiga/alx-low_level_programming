@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strlen - function that returns the lenght of a string
+ * _strlen - function that returns the length of a string
  * @s: value of the integer being considered
  * return: not
  */
-int _strln(char *s)
+int _strlen(char *s)
 {
 	int len = 0;
 
