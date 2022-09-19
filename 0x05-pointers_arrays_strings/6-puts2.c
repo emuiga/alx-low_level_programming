@@ -3,7 +3,7 @@
 /**
  * puts2 - function that prints every other character starting with the first
  * @str: the input
- * return: print out
+ * return: 0 if successful
  */
 void puts2(char *str)
 {
