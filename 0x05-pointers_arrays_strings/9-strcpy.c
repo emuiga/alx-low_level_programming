@@ -4,7 +4,7 @@
  * char *_strcpy - function that copies string pointed to the src
  * @dest: the one that's being copied to
  * @src: the one it is being copied from
- * return: def successful
+ * return: 0 if successful
  */
 char *_strcpy (char *dest, char *src)
 {
